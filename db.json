@@ -1,7 +1,6 @@
 {
-  "posts": [
-    {"detail":"The requested resource is not ready, please retry later."}
-  ],
+  "posts":
+    {"detail":"The requested resource is not ready, please retry later."},
   "profile": {
     "name": "typicode"
   }
